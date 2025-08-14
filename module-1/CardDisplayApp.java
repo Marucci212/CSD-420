@@ -1,7 +1,7 @@
 // Justin Marucci
 // Assignment 1
 // 08/13/2025
-
+// This is a JavaFX program that displays four images randomly selected from a deck of 52 cards.
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
